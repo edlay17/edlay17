@@ -1,4 +1,7 @@
-### Hi there 👋 I'm looking forward to grow in job wise
+### Hi there 👋 I am frontend developer
+## I'm looking forward to grow in job wise
+## Languages and technologies:
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 <!--
 **edlay17/edlay17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
