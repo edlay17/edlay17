@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm looking forward to grow in job wise
 
 <!--
 **edlay17/edlay17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
