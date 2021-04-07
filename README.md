@@ -1,5 +1,6 @@
-# Hi there 👋 I am frontend developer
-### I'm looking forward to grow in job wise
+# HR, welcome! You are in the right place at the right time. 
+## I haven't found my dream job yet, and you haven't filled the position.
+### I am frontend developer, looking forward to grow in job wise.
 ### Check my react-wordpress blog: [github.io](https://edlay17.github.io/react-wordpress/)
 ### Languages and technologies:
 ![REACTJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
